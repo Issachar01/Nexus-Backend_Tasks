@@ -167,6 +167,3 @@ JWT_SECRET=your_super_secret_key_here
 | --- | --- | --- |
 | POST | `/api/orders` | Create an order utilizing items from the active cart |
 | GET | `/api/orders/:userId` | Retrieve all historical orders for a specific user |
-
-```
-

@@ -35,7 +35,3 @@ git clone <repository-url>
 
 
 2. Navigate into any specific project directory to review its individual setup instructions, dependencies, and configuration guides.
-
-```
-
-```
